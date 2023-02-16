@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>Application Courtessy: Mayank Modis Application </h1>
-		<p><b>DanskeIT Training Day4 - Trainee Mathan M J</b></p>
+		<p style="background-color:powderblue;"><b>DanskeIT Training Day4 - Trainee Mathan M J</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
